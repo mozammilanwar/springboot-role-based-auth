@@ -100,7 +100,7 @@ error/404.html – Not Found
 
 ## demo Screen Short
 
-![Access Denied Screenshot](https://github.com/mozammilanwar/springboot-role-based-auth/blob/main/AccesDenied.png?raw=true)
+![Alt text](https://github.com/mozammilanwar/springboot-role-based-auth/blob/39c7706c7895edd40f749e5ff393689ec8daf4df/registrationpage.png)
 
 👨‍💻 Author: Mozammil Anwar
 📞 Contact: 8409546231
