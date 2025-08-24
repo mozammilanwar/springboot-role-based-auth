@@ -31,7 +31,7 @@ This project demonstrates **Spring Boot + Spring Security + Thymeleaf** with rol
 
 ## Project Structure
 
-src/main/java/com/example/SpringSecurityy/
+# src/main/java/com/example/SpringSecurityy/
 ├── model/ AppUser.java
 ├── repository/ UserRepository.java
 ├── service/ CustomUserDetailsService.java
@@ -39,7 +39,7 @@ src/main/java/com/example/SpringSecurityy/
 ├── SecurityConfig.java
 └── SpringSecurityyApplication.java
 
-src/main/resources/templates/
+# src/main/resources/templates/
 ├── login.html
 ├── home.html
 ├── user_home.html
@@ -97,10 +97,6 @@ admin_home.html – Admin dashboard
 error/403.html – Access Denied
 
 error/404.html – Not Found
-
-## demo Screen Short
-
-![image alt](https://github.com/mozammilanwar/springboot-role-based-auth/raw/39c7706c7895edd40f749e5ff393689ec8daf4df/registrationpage.png)
 
 👨‍💻 Author: Mozammil Anwar
 📞 Contact: 8409546231
